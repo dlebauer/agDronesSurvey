@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data and Code from a Survey of UAS for Phenotyping in
+  Agriculture
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Jennifer
+    family-names: Lachowiec
+    orcid: 'https://orcid.org/0000-0003-2962-6448'
+    affiliation: Montana State University
+  - given-names: Max
+    family-names: Feldman
+    affiliation: United States Department of Agriculture
+    orcid: 'https://orcid.org/0000-0002-5415-4326'
+  - given-names: 'Filipe '
+    family-names: Inacio Matias
+    affiliation: Syngenta
+    orcid: 'https://orcid.org/0000-0002-4414-2866'
+  - given-names: David
+    family-names: LeBauer
+    affiliation: University of Arizona
+    orcid: 'https://orcid.org/0000-0001-7228-053X'
+  - given-names: Alexander
+    family-names: Gregory
+    affiliation: Oregon State University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10573428
+    description: Data and Code
+  - type: doi
+    value: 10.1002/ppj2.20098
+    description: Journal Article
+repository-code: 'https://github.com/Lachowiec-Lab/agDronesSurvey'
+license: CC0-1.0
