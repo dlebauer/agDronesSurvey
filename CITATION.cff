@@ -6,8 +6,7 @@ title: >-
   Data and Code from a Survey of UAS for Phenotyping in
   Agriculture
 message: >-
-  If you use this dataset, please cite it using the metadata
-  from this file.
+  If you use this dataset, please cite it along with the article using the metadata from this file.
 type: dataset
 authors:
   - given-names: Jennifer
@@ -29,12 +28,25 @@ authors:
   - given-names: Alexander
     family-names: Gregory
     affiliation: Oregon State University
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.10573428
-    description: Data and Code
-  - type: doi
-    value: 10.1002/ppj2.20098
-    description: Journal Article
+references:
+  - title: "Data and Code from 'Adoption of unoccupied aerial systems in agricultural research'"
+    type: dataset
+    doi: 10.5281/zenodo.10573428
+    year: 2024
+  - title: "Adoption of unoccupied aerial systems in agricultural research"
+    type: article
+    authors:
+      - given-names: Jennifer
+        family-names: Lachowiec
+      - given-names: Max
+        family-names: Feldman
+      - given-names: Filipe
+        family-names: Inacio Matias
+      - given-names: David
+        family-names: LeBauer
+      - given-names: Alexander
+        family-names: Gregory
+    year: 2024
+    doi: 10.1002/ppj2.20098
 repository-code: 'https://github.com/Lachowiec-Lab/agDronesSurvey'
 license: CC0-1.0
