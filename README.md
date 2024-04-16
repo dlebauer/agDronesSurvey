@@ -37,7 +37,7 @@ This repository contains data and code to support the manuscript:
 
 If you use the data or code from this repository, please also cite:
 
-> Lachowiec, J., Feldman, M.J., Matias, F.I., LeBauer, D., Gregory, A. (2024). Data and code from: Unoccupied aerial systems adoption in agricultural research. Zenodo. doi:10.5281/zenodo.10573428
+> Lachowiec, J., Feldman, M.J., Matias, F.I., LeBauer, D., Gregory, A. (2024). Data and code from: Unoccupied aerial systems adoption in agricultural research. Zenodo. doi:[10.5281/zenodo.10573428](https://doi.org10.5281/zenodo.10573428)
 
 This repository’s data and code are made available under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. They are available for use without restriction, but please cite as indicated above.
 
